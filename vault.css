@@ -21,7 +21,3 @@ body {
     transition: transform 1s ease-in-out;
     border-radius: 120px;
 }
-
-.handle:hover {
-    transform: rotate(360deg);
-}
